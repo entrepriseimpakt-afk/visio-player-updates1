@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "build": 2,
+  "notes": "Nouveautés de cette version…",
+  "apk_arm64": "https://github.com/TON-COMPTE/visio-player-updates/releases/download/v1.0.1/app-arm64-v8a-release.apk",
+  "apk_v7a": "https://github.com/TON-COMPTE/visio-player-updates/releases/download/v1.0.1/app-armeabi-v7a-release.apk"
+}
